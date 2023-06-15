@@ -10,9 +10,7 @@ I'm a self-taught passionate FrontEnd developer from Nepal 🇮🇳
 
 - 💼 FrontEnd Engineer at [Wesionary Team](http://wesionary.team)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing TypeScript,Javascript, C# and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/nabinstha1234/issues)
 
