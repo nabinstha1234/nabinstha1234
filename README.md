@@ -8,7 +8,7 @@ I'm a self-taught passionate FrontEnd developer from Nepal 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Wesionary Team](http://wesionary.team)
+- 💼 FullStack Engineer at [Greener Co. Ltd.](https://greener.co.jp/)
 
 - ❤️ I love writing TypeScript,Javascript, C# and building fun experiments on type-level
 
